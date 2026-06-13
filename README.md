@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KrsnaAk&label=Profile%20views&color=0e75b6&style=flat" alt="krsnaak" /> </p>
 
-<p align="left"> <a href="https://github.com/krsnaak/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsnaak" alt="krsnaak" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/krsnaak07" target="blank"><img src="https://img.shields.io/twitter/follow/krsnaak07?logo=twitter&style=for-the-badge" alt="krsnaak07" /></a> </p>
 
 - 🔭 I’m currently working on [KrishiSetu](https://github.com/KrsnaAk/KrishiSetu)
