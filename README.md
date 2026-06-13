@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aka252423@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/KrsnaAk/Akshat/blob/main/resumex%20(2).pdf](https://github.com/KrsnaAk/Akshat/blob/main/resumex%20(2).pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OP_hCG6euchEzDXsa84u2y6cAk512-Kp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
