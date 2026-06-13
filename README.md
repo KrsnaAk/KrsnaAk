@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Hansraj</h1>
 <h3 align="center">CSE Student • Web Developer • Hackathon Enthusiast • Exploring AI & ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsnaak&label=Profile%20views&color=0e75b6&style=flat" alt="krsnaak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KrsnaAk&label=Profile%20views&color=0e75b6&style=flat" alt="krsnaak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsnaak" alt="krsnaak" /></a> </p>
 
