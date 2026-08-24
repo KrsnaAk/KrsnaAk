@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [KrishiSetu](https://github.com/KrsnaAk/KrishiSetu)
 
-- 🌱 I’m currently learning **🌱 I'm currently learning • Data Structures & Algorithms • Next.js & Modern Web Development • Backend Development • Machine Learning Fundamentals • Generative AI & LLM Applications • Open Source Contribution**
+-  **🌱 I'm currently learning • Data Structures & Algorithms • Next.js & Modern Web Development • Backend Development • Machine Learning Fundamentals • Generative AI & LLM Applications • Open Source Contribution**
 
 - 👯 I’m looking to collaborate on **AI-Powered Web Applications**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aka252423@gmail.com**
 
-- 🍄‍🟫 My Portfolio - [Akshat.dev](https://krsna-akshat.vercel.app/)
+- 🍄‍🟫 My Portfolio - [Akshat.dev](https://krsna-akshat-dev.vercel.app/)
   
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OP_hCG6euchEzDXsa84u2y6cAk512-Kp/view?usp=sharing)
 
