@@ -19,7 +19,7 @@
 
 - 🍄‍🟫 My Portfolio - [Akshat.dev](https://krsna-akshat-dev.vercel.app/)
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OP_hCG6euchEzDXsa84u2y6cAk512-Kp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qOndPAdhjWDgX6e51CMAkorrXPNjgeC_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
